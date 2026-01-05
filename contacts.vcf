@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Colby Adkins
+N:Adkins;Colby;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:info@elevateepoxyco.com
+EMAIL;TYPE=INTERNET;TYPE=HOME:colbyadkins.cfa@gmail.com
+item1.TEL:(480) 490-8126
+item1.X-ABLabel:Direct
+ORG:ELEVATE EPOXY CO
+TITLE:Owner
+BDAY:20050113
+NOTE:ELEVATE EPOXY CO
+CATEGORIES:myContacts
+END:VCARD
